@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HELPSTEIN_Frida.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="textBoxCompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TroubleTypes" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;тип1&lt;/string&gt;
+  &lt;string&gt;тип2&lt;/string&gt;
+  &lt;string&gt;тип3&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="LabelCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Компания:</Value>
+    </Setting>
+    <Setting Name="labelName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Имя:</Value>
+    </Setting>
+    <Setting Name="labelPhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Телефон:</Value>
+    </Setting>
+    <Setting Name="labelEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Email:</Value>
+    </Setting>
+    <Setting Name="groupBoxUrgency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Приоритет:</Value>
+    </Setting>
+    <Setting Name="radioButton1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">неважно</Value>
+    </Setting>
+    <Setting Name="radioButton2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">важно</Value>
+    </Setting>
+    <Setting Name="radioButton3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">очень важно</Value>
+    </Setting>
+    <Setting Name="textBoxName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="textBoxPhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="textBoxEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="labelType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Тип обращения:</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
